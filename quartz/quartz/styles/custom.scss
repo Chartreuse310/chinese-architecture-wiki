@@ -1,3 +1,15 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+span.katex {
+  background-color: var(--lightgray);
+  padding: 0.1rem 0.3rem;
+  border-radius: 5px;
+}
+
+.katex-display {
+  background-color: var(--lightgray);
+  padding: 0.5rem 1rem;
+  margin: 0.5rem 0;
+  border-radius: 5px;
+  overflow-x: auto;
+}
