@@ -29,3 +29,18 @@ npx quartz build --serve
 推送到 `main` 分支即触发 GitHub Actions 构建发布到 `https://chartreuse310.github.io/chinese-architecture-wiki/`。
 
 详见 [`wiki-planning/`](wiki-planning/)。
+
+## 许可证
+
+本仓库采用双重许可证策略：
+
+| 内容范围 | 许可证 |
+|---------|--------|
+| `quartz/content/`（知识内容）、`wiki-planning/`（规划记录） | [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+| `quartz/` 目录下除 `content/` 外的代码框架 | [MIT License](quartz/LICENSE.txt)（Quartz 原项目许可证） |
+
+**CC-BY-SA 4.0 核心条款：**
+- **署名（Attribution）**：必须注明原作者，提供许可证链接，并说明是否有修改
+- **相同方式共享（ShareAlike）**：如果对内容进行修改并分发衍生作品，必须采用相同许可证
+
+完整许可证文本详见 [LICENSE](LICENSE) 文件。
