@@ -1,0 +1,11 @@
+# Vault：临时输入（每次更新由用户提供，镜像到 quartz/content/ 后删除，不纳入版本控制）
+chinese-architecture-wiki-vault/
+
+# 编辑器/系统
+.DS_Store
+.workbuddy/
+
+# Quartz 依赖与构建产物（content/ 为追踪的规范内容源，不忽略）
+quartz/node_modules/
+quartz/public/
+quartz/.quartz/
