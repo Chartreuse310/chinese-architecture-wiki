@@ -143,6 +143,8 @@ plugins:
         grow: true
   - source: "@quartz-community/backlinks"
     enabled: true
+    options:
+      hideWhenEmpty: false
     layout:
       position: right
       priority: 50
@@ -265,8 +267,6 @@ layout:
     folder:
       exclude:
         - reader-mode
-      positions:
-        right: []
     tag:
       exclude:
         - reader-mode

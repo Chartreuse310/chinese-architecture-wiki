@@ -52,7 +52,7 @@ title: 中国古建筑wiki
 
 ### 著作
 
-- [马炳坚《中国古建筑木作营造技术》](refs/ma-bingjian-muzuo-yingzao-jishu.md)
+- [马炳坚《中国古建筑木作营造技术》](refs/ma-bingjian-muzuo-yingzao-jishu/index)
 
 ### 期刊论文
 
