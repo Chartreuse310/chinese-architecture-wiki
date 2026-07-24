@@ -6,15 +6,15 @@ title: 马炳坚《中国古建筑木作营造技术》
 
 ## 1 明、清古建筑的形式、种类、通则及权衡
 
-- [明清建筑形式类型](refs/ma-bingjian-muzuo-yingzao-jishu/1-mingqing-jianzhu-leixing.md)
+- [明清建筑形式类型](参考文献/著作/ma-bingjian-muzuo-yingzao-jishu/1-mingqing-jianzhu-leixing.md)
 
 ### 1.1 明、清古建筑的主要建筑形式
 
-- [大式建筑与小式建筑](refs/ma-bingjian-muzuo-yingzao-jishu/1.1-dashi-jianzhu-yu-xiaoshi-jianzhu.md)
+- [大式建筑与小式建筑](参考文献/著作/ma-bingjian-muzuo-yingzao-jishu/1.1-dashi-jianzhu-yu-xiaoshi-jianzhu.md)
 
 ### 1.2 清代建筑的通则
 
-- [面宽和进深](refs/ma-bingjian-muzuo-yingzao-jishu/1.2-miankuan-he-jinshen.md)
+- [面宽和进深](参考文献/著作/ma-bingjian-muzuo-yingzao-jishu/1.2-miankuan-he-jinshen.md)
 
 ### 1.3 清代建筑的权衡
 

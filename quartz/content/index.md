@@ -2,7 +2,7 @@
 title: 中国古建筑wiki
 ---
 
-一个整合“中国古代营造体系”的术语知识库。
+一个整合"中国古代营造体系"的术语知识库。
 
 ## 主题
 
@@ -17,23 +17,23 @@ title: 中国古建筑wiki
 ### 术语解释
 
 - 类型
-	- [大式建筑](concepts/dashi-jianzhu.md)
-	- [小式建筑](concepts/xiaoshi-jianzhu.md)
+	- [大式建筑](概念/术语解释/类型/dashi-jianzhu.md)
+	- [小式建筑](概念/术语解释/类型/xiaoshi-jianzhu.md)
 - 整体尺度
-	- [宽](concepts/kuan.md)
-	- [深](concepts/shen.md)
-	- [间](concepts/jian.md)
-	- [面宽](concepts/miankuo.md)
-	- [进深](concepts/jinshen.md)
+	- [宽](概念/术语解释/整体尺度/kuan.md)
+	- [深](概念/术语解释/整体尺度/shen.md)
+	- [间](概念/术语解释/整体尺度/jian.md)
+	- [面宽](概念/术语解释/整体尺度/miankuo.md)
+	- [进深](概念/术语解释/整体尺度/jinshen.md)
 - 大木作
-	- [空当坐中](concepts/kongdang-zuozhong.md)
+	- [空当坐中](概念/术语解释/大木作/kongdang-zuozhong.md)
 
 ### 做法规定
 
 > 由官方发布的做法规定。
 
 - 整体尺度
-	- [面阔](concepts/miankuo.md)
+	- [面阔](概念/术语解释/整体尺度/miankuo.md#做法规定)
 - 大木作
 
 ### 方法论
@@ -41,18 +41,17 @@ title: 中国古建筑wiki
 > 由设计者整理出的实践方法。
 
 - 整体尺度
-	- [面阔](concepts/miankuo.md)
+	- [面阔](概念/术语解释/整体尺度/miankuo.md#方法论)
 - 大木作
 
 ## 参考文献
 
 ### 古代文献
 
-- [清工部《工程做法则例》](refs/gongcheng-zuofa-zeli.md)
+- [清工部《工程做法则例》](参考文献/古代文献/gongcheng-zuofa-zeli.md)
 
 ### 著作
 
-- [马炳坚《中国古建筑木作营造技术》](refs/ma-bingjian-muzuo-yingzao-jishu/index)
+- [马炳坚《中国古建筑木作营造技术》](参考文献/著作/ma-bingjian-muzuo-yingzao-jishu/index)
 
 ### 期刊论文
-
