@@ -2,6 +2,8 @@
 
 整合「中国古代营造体系」术语的开源知识库，基于 [Quartz v5](https://quartz.jzhao.xyz) 构建，部署于 GitHub Pages。
 
+**站点地址**：[https://chartreuse310.github.io/chinese-architecture-wiki/](https://chartreuse310.github.io/chinese-architecture-wiki/)
+
 ## 仓库结构
 
 ```
