@@ -1,5 +1,5 @@
 ---
-title: 面阔
+title: 4-面阔
 aliases:
   - 面宽
 created: 2026-07-23

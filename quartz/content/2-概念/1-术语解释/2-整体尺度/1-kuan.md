@@ -1,5 +1,5 @@
 ---
-title: 宽
+title: 1-宽
 created: 2026-07-23
 modified: 2026-07-23
 tags:

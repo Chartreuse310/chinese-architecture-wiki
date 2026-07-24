@@ -1,5 +1,5 @@
 ---
-title: 小式建筑
+title: 2-小式建筑
 created: 2026-07-22
 modified: 2026-07-22
 tags:

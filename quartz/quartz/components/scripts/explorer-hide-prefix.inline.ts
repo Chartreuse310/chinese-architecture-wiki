@@ -1,5 +1,5 @@
 function hidePrefix(text: string) {
-  const match = text.match(/^(\d+-)+(.+)$/)
+  const match = text.match(/^(\d+\.)*\d+-(.+)$/)
   return match ? match[2] : text
 }
 
