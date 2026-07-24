@@ -51,12 +51,19 @@ function setupObserver() {
   window.addCleanup?.(() => observer.disconnect())
 }
 
+function init() {
+  hideAllPrefixes()
+  setupObserver()
+}
+
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', init)
+} else {
+  init()
+}
+
 document.addEventListener('nav', () => {
   hideAllPrefixes()
   setupObserver()
 })
 document.addEventListener('render', hideAllPrefixes)
-document.addEventListener('DOMContentLoaded', () => {
-  hideAllPrefixes()
-  setupObserver()
-})
