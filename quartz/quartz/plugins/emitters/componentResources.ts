@@ -261,7 +261,7 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
   }
 
   if (cfg.enableSPA) {
-    componentResources.afterDOMLoaded.push(explorerHidePrefixScript)
+    componentResources.beforeDOMLoaded.push(explorerHidePrefixScript)
     componentResources.afterDOMLoaded.push(spaRouterScript)
   } else {
     componentResources.afterDOMLoaded.push(`
