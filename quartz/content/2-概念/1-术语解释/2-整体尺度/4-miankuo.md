@@ -9,7 +9,7 @@ tags:
   - 做法规定
   - 方法论
 ---
-一[间](概念/术语解释/整体尺度/jian.md)的[宽](概念/术语解释/整体尺度/kuan.md)[^1]。
+一[间](2-概念/1-术语解释/2-整体尺度/3-jian.md)的[宽](2-概念/1-术语解释/2-整体尺度/1-kuan.md)[^1]。
 
 ### 做法规定
 
@@ -33,11 +33,11 @@ $\text{开间面阔} = (6+1) * 2.5\text{寸} * 11 = 192.5\text{寸}$
 
 确定开间面阔时的斗栱做法（常用于古建筑研究时的反推）[^2]：
 
-1. 明间斗栱为偶数（即[空当坐中](概念/术语解释/大木作/kongdang-zuozhong.md)）；
+1. 明间斗栱为偶数（即[空当坐中](2-概念/1-术语解释/3-大木作/1-kongdang-zuozhong.md)）；
 2. 次稍间递减一攒，或为明间8/10；
-3. 斗栱攒当以11斗口为基准，横栱长度可适当调整（与[《则例》](参考文献/古代文献/gongcheng-zuofa-zeli.md)规定中的6.2斗口、7.2斗口、9.2斗口略有出入）；
+3. 斗栱攒当以11斗口为基准，横栱长度可适当调整（与[《则例》](3-参考文献/1-古代文献/1-gongcheng-zuofa-zeli.md)规定中的6.2斗口、7.2斗口、9.2斗口略有出入）；
 4. 斗口大小取规定中的一个等级，或根据单位取整。
 
-[^1]: [面宽和进深](参考文献/著作/ma-bingjian-muzuo-yingzao-jishu/1.2-miankuan-he-jinshen.md)
+[^1]: [面宽和进深](3-参考文献/2-著作/ma-bingjian-muzuo-yingzao-jishu/1.2-miankuan-he-jinshen.md)
 
-[^2]: [面宽的确定方法](参考文献/著作/ma-bingjian-muzuo-yingzao-jishu/1.2.1-miankuan-queding-fangfa.md)
+[^2]: [面宽的确定方法](3-参考文献/2-著作/ma-bingjian-muzuo-yingzao-jishu/1.2.1-miankuan-queding-fangfa.md)

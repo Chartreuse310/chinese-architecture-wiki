@@ -7,4 +7,4 @@ tags:
 ---
 明间斗栱为偶数的做法[^1]。
 
-[^1]: [面宽的确定方法](参考文献/著作/ma-bingjian-muzuo-yingzao-jishu/1.2.1-miankuan-queding-fangfa.md)
+[^1]: [面宽的确定方法](3-参考文献/2-著作/ma-bingjian-muzuo-yingzao-jishu/1.2.1-miankuan-queding-fangfa.md)
